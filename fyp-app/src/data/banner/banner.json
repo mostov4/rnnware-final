@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/banner/banner14.png",
+    "title": "New Arrivals",
+    "subtitle": "Choose your products here",
+    "link": "/dine"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/banner/banner15.png",
+    "title": "Featured Products",
+    "subtitle": "Choose your products here",
+    "link": "/dine"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/banner/banner16.png",
+    "title": "Best Seller",
+    "subtitle": "Choose your products here",
+    "link": "/dine"
+  }
+]

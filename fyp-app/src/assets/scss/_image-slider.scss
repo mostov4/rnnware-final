@@ -1,0 +1,53 @@
+/*----- 12. image slider style  -----*/
+
+
+
+
+
+
+
+
+
+.single-image {
+  overflow: hidden;
+  a {
+    img {
+      width: 100%;
+      transition: all 0.5s ease 0s;
+      transform: scale(1);
+    }
+  }
+  &:hover a img {
+    transform: scale(1.1);
+  }
+}
+
+
+
+
+// PRODUCT SLIDER
+
+
+.bgimg-1{
+background-image: url('https://random.imagecdn.app/1400/400');
+  height: 400px;
+}
+
+.bgimg-1 .caption{
+  position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+
+.bgimg-1 .caption .border{
+      background-color: #fff;
+    color: #000;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+

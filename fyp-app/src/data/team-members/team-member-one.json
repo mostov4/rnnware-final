@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "image": "assets/img/team/hassan.png",
+    "fbLink": "//www.facebook.com",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Hassan Masood",
+    "position": "Team lead"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/team/Mostajab.png",
+    "fbLink": "//www.facebook.com",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Mostajab Ali",
+    "position": "Team Member"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/team/shahid.png",
+    "fbLink": "//www.facebook.com",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Shahid Akbar",
+    "position": "Team Member"
+  }
+]

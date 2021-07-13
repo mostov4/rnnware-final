@@ -1,0 +1,23 @@
+{
+  "home": "Home",
+  "shop": "Shop",
+  "Dine": "Dine",
+  "Storage": "Storage",
+  "Utensils": "Utensils",
+  "Serve": "Serve",
+  "admin_home": "Admin Home",
+  "crm": "CRM",
+  "retailer_product_list": "Retailer Product List",
+  "shop_grid_standard": "Shop Grid Standard",
+  "shop_grid_filter": "Shop Grid Filter",
+  "shop_grid_two_column": "Shop Grid Two Column",
+  "pages": "Pages",
+  "cart": "Cart",
+  "checkout": "Checkout",
+  "wishlist": "Wishlist",
+  "my_account": "My Account",
+  "login_register": "Login / Register",
+  "about_us": "About Us",
+  "contact_us": "Contact Us",
+  "404_page": "404 Page"
+}
